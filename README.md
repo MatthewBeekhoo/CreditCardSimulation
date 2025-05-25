@@ -45,3 +45,9 @@ Event Listener Coordination:
 Coordinating multiple event listeners (KeyListener, ActionListener) and making sure they worked together without conflicting or missing events was a frequent source of bugs.
 
 Link to Video Demo: https://drive.google.com/file/d/1qFUtIly0FDsREaXA04hSQ9YJM5eTIw8H/view?usp=sharing
+
+
+Notes:
+This project gave me a great deal of satisfaction and I am proud, since it called on me to employ a range of object-oriented programming paradigms in attempting to simulate real-world conditions. It forced me to learn about event-driven programming, so far as how listeners operate in a GUI environment, in real-time. I learned how to perform effective validations on user input comments and how to provide immediate feedback through a dynamic interface.
+
+I also derived a lot of satisfaction from seeing the interface respond visually to the different types of cards — it gave life to the application. Although debugging seemed to be quite a challenge when trying to sync up some labels or when validating the card number, seeing everything come together inspired in me greater appreciation for my programming skills. I felt like this was one of the very first projects that made me feel as though I was really building something interactive and user-friendly from the ground up.
